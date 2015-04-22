@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WifiStatus</string>
+
+    <string name="text_status">Статус</string>
+
+    <string name="text_status_on">Включено</string>
+    <string name="text_status_off">Выключено</string>
+
+    <string name="btn_message">Сообщение</string>
+    <string name="message">Сообщение</string>
+
+    <string name="btn_notification">Уведомление</string>
+</resources>
